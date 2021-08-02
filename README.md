@@ -9,3 +9,17 @@
 - 🏃‍♂️ Finishing Flatiron Bootcamp 🧑‍💻
 - 🧘‍♂️ I'm currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects 📖 
+
+### Connect with me:
+
+
+
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eulis01&show_icons=true)  
